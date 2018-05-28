@@ -10,3 +10,5 @@ Set these in index.js
 run:
 * `npm install --save`
 * `node index.js`
+
+Setup git webhook on branch create from repository settings to url of your server
