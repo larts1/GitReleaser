@@ -3,10 +3,10 @@ const http = require('http');
 const fs = require('fs');
 
 //column IDs
-originIDs = [2766881, 2766879, 2778716];
-targetID = 2766880;
+originIDs = [];
+targetID = ;
 token = ""; //git webmaster access token
-port = 9997;
+port = ;
 
 
 const Options = 
